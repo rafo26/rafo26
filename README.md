@@ -1,7 +1,6 @@
 Olá eu sou o Rafael Dantas
 
 - 🌱 Estudando front-end
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/rafo26">
